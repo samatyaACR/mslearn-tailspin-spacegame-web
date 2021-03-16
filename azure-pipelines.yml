@@ -24,7 +24,7 @@ resources :
 
     type : github
 
-    endpoint : SpaceGame
+    endpoint : samatyaACR
 
     name : ILiuACR/shared-azure-pipeline-templates
 
